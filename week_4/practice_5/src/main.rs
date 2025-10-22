@@ -1,5 +1,5 @@
 use std::io;
-fn fn main() {
+ fn main() {
     let mut input = String::new();
 
     println!("\nEnter your Height (in centimetres):");  
