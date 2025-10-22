@@ -1,6 +1,6 @@
 use std::io;
  fn main() {
-    let mut input = String::new();
+    let  input = String::new();
 
     println!("\nEnter your Height (in centimetres):");  
     io::stdin().read_line(&mut input).expect("Not a valid number");
