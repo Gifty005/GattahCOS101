@@ -1,0 +1,12 @@
+C:\Users\New\Documents\GattahCOS101\week_4\practice_1\target\debug\deps\gcore-cc310a92ef3befc9.d: C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\lib.rs C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\errors.rs C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\exec.rs C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\msg.rs C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\prog.rs C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\utils.rs
+
+C:\Users\New\Documents\GattahCOS101\week_4\practice_1\target\debug\deps\libgcore-cc310a92ef3befc9.rlib: C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\lib.rs C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\errors.rs C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\exec.rs C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\msg.rs C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\prog.rs C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\utils.rs
+
+C:\Users\New\Documents\GattahCOS101\week_4\practice_1\target\debug\deps\libgcore-cc310a92ef3befc9.rmeta: C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\lib.rs C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\errors.rs C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\exec.rs C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\msg.rs C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\prog.rs C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\utils.rs
+
+C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\lib.rs:
+C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\errors.rs:
+C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\exec.rs:
+C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\msg.rs:
+C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\prog.rs:
+C:\Users\New\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\utils.rs:
