@@ -3,7 +3,7 @@ fn main() {
     println!("My name is {}",name1);
 
     //find and replace
-    let name1 = name1.replace("Gift","Attah");
+    let name2 = name1.replace("Gift","Attah");
     println!("You can call me {}",name2 );
     let faculty = "Faculty of science and technology";
 
