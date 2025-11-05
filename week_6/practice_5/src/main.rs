@@ -4,8 +4,8 @@ fn main() {
      println!("Name: {}", fullname);
      println!();
      println!("Before trim");
-     println!("length is {}",fullname.len() );
+     println!("length is {}",fullname.len());
      println!();
      println!("After trim");
-     println!("length is {}",fullname.trim().len() );
+     println!("length is {}",fullname.trim().len());
 }
