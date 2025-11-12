@@ -13,8 +13,8 @@ fn main() {
 
     //Array with default values that creates and 
     // initializes all its elements with a default value of -1.
-    let arr3:[-1;8];
+    let arr3:[i32;8] = [-1;8];
     println!("\n Array with default values");
-    println!("array is {}",arr3 );
+    println!("array is {:?}",arr3 );
     println!("array size is : {}",arr3.len() );
 }
