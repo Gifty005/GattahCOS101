@@ -1,6 +1,6 @@
 fn main() {
     //using vec::new()
-    let v : vec<i64> = Vec::new();
+    let v : Vec<i32> = Vec::new();
 
     //printing the size of the vector
     println!("\n The length of Vec::new is: {}",v.len() );
